@@ -8,3 +8,5 @@ testin2
 branch added
 
 git rest
+
+GIt reset1
